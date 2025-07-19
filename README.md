@@ -40,6 +40,7 @@ poetry run get-papers-list "covid vaccine" -d
 - lxml (XML parser)
 - pandas
 - NCBI PubMed E-utilities
+- LLM(Chatgpt)
 
 ## 📦 Publishing (bonus)
 
@@ -52,4 +53,5 @@ poetry publish -r test-pypi --build
 
 ## 👤 Author
 
-Your Name – [your-email@example.com]
+Your Name – V.Gnana Pramodhini
+Your Gmail -pramodinivennapusa2004@gmail.com
